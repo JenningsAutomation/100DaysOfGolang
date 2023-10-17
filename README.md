@@ -33,7 +33,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 7 > [My Seventh Day](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [My Eighth Day](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [My Ninth Day](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [My Tenth Day](Journey/010/Readme.md)
 
 ## Walking down the road
 
